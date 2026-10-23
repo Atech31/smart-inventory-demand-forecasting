@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_cost,selling_price,lead_time_days
+PROD_001,Wireless Headphones,Electronics,45.0,89.99,5
+PROD_002,Ergonomic Chair,Furniture,120.0,249.99,10
+PROD_003,Mechanical Keyboard,Electronics,35.0,79.99,7
+PROD_004,Stainless Steel Water Bottle,Home & Kitchen,8.0,24.99,3
+PROD_005,Standing Desk,Furniture,210.0,450.0,14

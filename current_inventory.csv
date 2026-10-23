@@ -1,0 +1,6 @@
+product_id,current_stock,reorder_point,last_restock_date
+PROD_001,294,125,2025-12-15
+PROD_002,126,250,2025-12-15
+PROD_003,208,175,2025-12-15
+PROD_004,373,75,2025-12-15
+PROD_005,147,350,2025-12-15

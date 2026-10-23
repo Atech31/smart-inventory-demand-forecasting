@@ -1,0 +1,6 @@
+product_id,product_name,avg_daily_demand,forecast_next_30_days
+PROD_001,Wireless Headphones,30.23,907
+PROD_002,Ergonomic Chair,35.33,1060
+PROD_003,Mechanical Keyboard,27.27,818
+PROD_004,Stainless Steel Water Bottle,32.67,979
+PROD_005,Standing Desk,32.5,975
